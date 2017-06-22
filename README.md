@@ -1,1 +1,1 @@
-# haskell_playground
+# My Functional Programming Playground
